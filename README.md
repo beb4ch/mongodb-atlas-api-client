@@ -858,3 +858,4 @@ Function - Deletes the cloudProviderAccess name passed.
 More details - https://docs.atlas.mongodb.com/reference/api/cloud-provider-access-deauthorize-one-role/
 
 
+[![Build status](https://teamcity.jetbrains.com/guestAuth/app/rest/builds/buildType:(id:TeamCityPluginsByJetBrains_TeamcityGoogleTagManagerPlugin_Build)/statusIcon](https://teamcity.repsly.com/viewType.html?buildTypeId=BackendServices_Files_BuildAndDeployToDev)
